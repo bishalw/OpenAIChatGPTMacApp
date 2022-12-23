@@ -1,5 +1,5 @@
 # OpenAIChatGPTMacApp
-Native MacOS Status Bar written using SwiftUI and NSObject
+Native MacOS Status Bar written using SwiftUI
 
 For Now If you want to run the app on your Computer. Just clone the repo and run it through xcode!
 
